@@ -57,6 +57,6 @@ For now, the basic workflow will be:
 
 ---
 
-## 📌 License / Usage  
+## License / Usage  
 All Rights Reserved © 2025 Magdy Mohamed
 This repository is for demonstration purposes only. You may view the code, but it may not be copied, reused, or redistributed.  
